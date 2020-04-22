@@ -1,0 +1,11 @@
+git clone path of the repo
+ls
+cd first-repo/
+touch file1
+git status
+git add file1
+git commit -m "first commit"
+git push
+git pull
+esc :wq
+git push
